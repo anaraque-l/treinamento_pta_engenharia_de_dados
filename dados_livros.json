@@ -1,0 +1,27 @@
+[
+    {
+        "titulo": "The Little Prince",
+        "autor": "Antoine de Saint-Exupery",
+        "ano_publicacao": 1943
+    },
+    {
+        "titulo": "the hitchhikers guide to the galaxy",
+        "autor": "DOUGLAS ADAMS",
+        "ano_publicacao": 1979
+    },
+    {
+        "titulo": "Test Book with Null Year",
+        "autor": "Null Author",
+        "ano_publicacao": null
+    },
+    {
+        "titulo": "Test Book with Negative Year",
+        "autor": "Bad Author",
+        "ano_publicacao": -100
+    },
+    {
+        "titulo": "A new Release",
+        "autor": "young writer",
+        "ano_publicacao": 2024
+    }
+]
